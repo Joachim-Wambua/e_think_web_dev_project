@@ -120,7 +120,7 @@
                                     <li><a href="./gallery.html">Gallery</a></li>
                                     <li><a href="#">Services</a></li>
                                     <li class="active"><a href="./contact.html">Contact</a></li>
-                                    <li><a href="./login.html">Subscribe</a></li>
+                                    <li><a href="./subscribe.php">Subscribe</a></li>
                                 </ul>
 
                                 <!-- Search Icon -->
